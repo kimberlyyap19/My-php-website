@@ -1,0 +1,130 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    height: 100vh;
+}
+#about{
+    position: absolute;
+    width: 700px;
+    height: 50vh;
+    left: 18rem;
+    top: 5rem;
+    font-size: 20px;
+}
+
+#personal-info{
+width: 1017px;
+height: 180vh;
+background: rgb(235, 54, 229);
+}
+#body-section{
+    position: absolute;
+    width: 1020px;
+    left: 15rem;
+height: 181vh;
+padding: 1rem;
+font-size: 20px;
+background: rgba(98, 4, 4, 0.959);
+}
+#profile{
+    position: absolute;
+    width: 200px;
+    height: 200px;
+    border-radius: 100%;
+    left: 2rem;
+    top:2rem;
+    
+  
+}
+
+#info{
+    position: absolute;
+    width: 500px;
+    height: 50vh;
+    left: 25rem;
+    top: 24rem;
+    font-size: 20px;
+  
+}
+#tag{
+    position: absolute;
+    width: 200px;
+    height: 50vh;
+    left: 4rem;
+    top: 24rem;
+   
+}
+#school{
+    position: absolute;
+    width: 500px;
+    height: 10vh;
+    left: 25rem;
+    top: 50rem;
+    font-size: 20px;
+ 
+}
+#tags{
+    position: absolute;
+    width: 200px;
+    height: 10vh;
+    left: 4rem;
+    top: 50rem;
+ 
+}
+h6{
+    font-size: 20px;   
+}
+
+#sub{
+    position: absolute;
+    font-size: 40px;   
+    width: 990px;
+    height: 3rem;
+    left: 2rem;
+    top: 18rem;
+    background: wheat;
+}
+#sub1{
+    position: absolute;
+    font-size: 40px;   
+    width: 990px;
+    height: 3rem;
+    left: 2rem;
+    top: 45rem;
+    background: wheat;
+}
+#f-movie{
+    position: absolute;
+    margin-left: 2rem;
+    top: 63rem;
+}
+#movie-cover{
+width: 200px;
+height: 200px;
+margin-left: 2rem;
+}
+p{
+    margin-left: 3rem;  
+    font-size: 22px;
+   
+}
+#m-title{
+    position: absolute;
+    margin-left: 2rem;
+    top: 14rem;
+}
+#sub2{
+    position: absolute;
+    font-size: 40px;   
+    width: 990px;
+    height: 3rem;
+    left: 2rem;
+    top: 58rem;
+    background: wheat;
+}
+
+h5{
+    text-align: center;
+}

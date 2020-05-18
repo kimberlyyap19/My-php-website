@@ -1,0 +1,65 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+body{
+    background:linear-gradient(to bottom, rgba(0, 0, 0, 0.692), rgba(0, 0, 0, 0.349)) ,url(../img/laptop.jpeg);
+    background-size: cover;
+    height: 100vh;
+}
+h1{
+    position:absolute;
+   color:transparent;
+   background-image: url(../img/color.gif);
+   background-size: cover;
+    font-size: 7rem;
+    font-weight: 910;
+    text-align: center;
+    left: 14rem;
+    top: 7rem;
+    font-family: Lucida Handwriting;
+    -webkit-background-clip: text;
+}
+
+#button-section{
+    position:absolute;
+    width: 300px;
+    height: 70vh;
+    text-align: center;
+
+    top: 8rem;
+    left: 60rem;
+}
+
+button{
+    background:linear-gradient(90deg, #03a9f4,#f441a5,#ffeb3b, #03a9f4);
+    width: 15rem;
+    height: 3rem;
+    position: relative;
+    top: 3rem;
+ 
+    background-size: 400%;
+    border-radius: 30px;
+   
+   
+   }
+   a{
+       color: beige;
+       font-size: 20px;
+       text-decoration: none;
+   }
+  button:hover{
+    animation: animate 8s linear infinite;
+}
+@keyframes animate
+{
+    0%
+    {
+        background-position: 0%;
+    }
+
+   100%
+    {
+        background-position: 400%;
+    }
+}
